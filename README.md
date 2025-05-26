@@ -1,12 +1,32 @@
-Olá, eu me chamo Wesley
+# Olá, eu sou o Wesley Fernandes!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera
-📍 São Paulo, Brasil
+ Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera  
+ São Paulo, Brasil
 
-Ferramentas e Tecnologias: Git/GitHub, VS Code, Figma (básico), MySQL, XAMPP, Workbench
-Outras Competências: Trabalho em equipe, organização, comunicação
-Projetos Acadêmicos e Iniciais
-Projeto de Interface e Usabilidade - Jornal Chronos:
-Projeto desenvolvido com foco em boas práticas de design, experiência do usuário e usabilidade. O "Jornal Chronos" é uma interface para agrupamento de notícias, permitindo filtragem por data e compartilhamento de informações, criando uma experiência intuitiva e interativa para os usuários.
-Projeto de Banco de Dados (em andamento):
+---
+
+## 🚀 Projeto em Destaque
+
+**Sistema de Registro Pessoal Digital**
+
 Sistema básico de cadastro de pessoas e controle de acessos empresariais. O projeto está sendo desenvolvido utilizando MySQL, Workbench e XAMPP, com foco na criação de uma estrutura segura e eficiente para gerenciar dados e acessos de usuários.
+
+
+---
+
+## 💡 Tecnologias e Ferramentas
+
+- 🗃 MySQL
+- 🌐 Git e GitHub
+- 🎨 Figma (básico)
+- 🐧 Linux e linha de comando
+- 📚 Em aprendizado: JavaScript, HTML, CSS
+
+---
+
+
+
+## 📫 Contato
+
+- 📧 E-mail: [Wesleyffrr47@gmail.com]  
+- 📞 Telefone/WhatsApp: [+55 (11) 94889-4494]
