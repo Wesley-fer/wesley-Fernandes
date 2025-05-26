@@ -12,8 +12,6 @@
 Sistema básico de cadastro de pessoas e controle de acessos empresariais. O projeto está sendo desenvolvido utilizando MySQL, Workbench e XAMPP, com foco na criação de uma estrutura segura e eficiente para gerenciar dados e acessos de usuários.
 
 
----
-
 ## 💡 Tecnologias e Ferramentas
 
 - 🗃 MySQL
